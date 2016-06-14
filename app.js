@@ -4,5 +4,5 @@
 angular.module("test", [])
     .controller("hello", function($scope) {
         $scope.hello = {};
-        $scope.hello.title = "World, AngularJS";
+        $scope.hello.title = "Hello World, AngularJS !";
     } );
